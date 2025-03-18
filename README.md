@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="300" src="https://github.com/renatashirlen/escola_da_nuvem/blob/main/img/Escola%20da%20Nuvem.gif?raw=true"  />
+</div>
+
+###
+
 <p align="left">Exercícios em Python ministrados durante as aulas do módulo de IA do curso AWS re/start ministrado pela Escola da Nuvem.<br><br>💠Turma BRSAO 172.</p>
 
 ###
